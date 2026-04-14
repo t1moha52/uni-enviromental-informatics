@@ -1,0 +1,14 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_HelloWorld"  Content="Button" HorizontalAlignment="Left" Margin="35,35,0,0" VerticalAlignment="Top" Height="154" Width="185" Click="btn_HelloWorld_Click"/>
+        <RadioButton x:Name="rbtn_FirstOption" Content="1" HorizontalAlignment="Left" Margin="460,154,0,0" VerticalAlignment="Top" Checked="rbtn_FirstOption_Checked"/>
+        <TextBox x:Name="TextBox1" HorizontalAlignment="Center" Margin="0,217,0,0" TextWrapping="Wrap" Text="nope" VerticalAlignment="Top" Width="376" Height="67" TextChanged="TextBox1_TextChanged"/>
+    </Grid>
+</Window>

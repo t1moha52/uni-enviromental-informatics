@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Hausaufgabe_2/1.0.0": {
+        "runtime": {
+          "Hausaufgabe_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hausaufgabe_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

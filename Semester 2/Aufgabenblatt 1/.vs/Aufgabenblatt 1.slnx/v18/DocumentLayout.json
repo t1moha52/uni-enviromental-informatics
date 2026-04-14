@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|c:\\users\\tmaxi\\desktop\\htw\\umweltinformatik\\programmierung\\semester 2\\aufgabenblatt 1\\aufgabenblatt 1\\units\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|solutionrelative:aufgabenblatt 1\\units\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|c:\\users\\tmaxi\\desktop\\htw\\umweltinformatik\\programmierung\\semester 2\\aufgabenblatt 1\\aufgabenblatt 1\\units\\kraftfahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|solutionrelative:aufgabenblatt 1\\units\\kraftfahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|c:\\users\\tmaxi\\desktop\\htw\\umweltinformatik\\programmierung\\semester 2\\aufgabenblatt 1\\aufgabenblatt 1\\units\\personenkraftwagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|solutionrelative:aufgabenblatt 1\\units\\personenkraftwagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|c:\\users\\tmaxi\\desktop\\htw\\umweltinformatik\\programmierung\\semester 2\\aufgabenblatt 1\\aufgabenblatt 1\\units\\lastkraftwagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|solutionrelative:aufgabenblatt 1\\units\\lastkraftwagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|c:\\users\\tmaxi\\desktop\\htw\\umweltinformatik\\programmierung\\semester 2\\aufgabenblatt 1\\aufgabenblatt 1\\enums\\treibstoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|solutionrelative:aufgabenblatt 1\\enums\\treibstoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|c:\\users\\tmaxi\\desktop\\htw\\umweltinformatik\\programmierung\\semester 2\\aufgabenblatt 1\\aufgabenblatt 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8FC081C-542C-A092-D473-EAE954290FB5}|Aufgabenblatt 1\\Aufgabenblatt 1.csproj|solutionrelative:aufgabenblatt 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lastkraftwagen.cs",
+              "DocumentMoniker": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Units\\Lastkraftwagen.cs",
+              "RelativeDocumentMoniker": "Aufgabenblatt 1\\Units\\Lastkraftwagen.cs",
+              "ToolTip": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Units\\Lastkraftwagen.cs",
+              "RelativeToolTip": "Aufgabenblatt 1\\Units\\Lastkraftwagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:40:32.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personenkraftwagen.cs",
+              "DocumentMoniker": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Units\\Personenkraftwagen.cs",
+              "RelativeDocumentMoniker": "Aufgabenblatt 1\\Units\\Personenkraftwagen.cs",
+              "ToolTip": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Units\\Personenkraftwagen.cs",
+              "RelativeToolTip": "Aufgabenblatt 1\\Units\\Personenkraftwagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:31:14.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KraftFahrzeug.cs",
+              "DocumentMoniker": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Units\\KraftFahrzeug.cs",
+              "RelativeDocumentMoniker": "Aufgabenblatt 1\\Units\\KraftFahrzeug.cs",
+              "ToolTip": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Units\\KraftFahrzeug.cs",
+              "RelativeToolTip": "Aufgabenblatt 1\\Units\\KraftFahrzeug.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:22:16.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Units\\Motor.cs",
+              "RelativeDocumentMoniker": "Aufgabenblatt 1\\Units\\Motor.cs",
+              "ToolTip": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Units\\Motor.cs",
+              "RelativeToolTip": "Aufgabenblatt 1\\Units\\Motor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:14:29.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Treibstoff.cs",
+              "DocumentMoniker": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Enums\\Treibstoff.cs",
+              "RelativeDocumentMoniker": "Aufgabenblatt 1\\Enums\\Treibstoff.cs",
+              "ToolTip": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Enums\\Treibstoff.cs",
+              "RelativeToolTip": "Aufgabenblatt 1\\Enums\\Treibstoff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:13:21.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Program.cs",
+              "RelativeDocumentMoniker": "Aufgabenblatt 1\\Program.cs",
+              "ToolTip": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Aufgabenblatt 1\\Aufgabenblatt 1\\Program.cs",
+              "RelativeToolTip": "Aufgabenblatt 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:10:49.917Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\bin\Debug\net9.0\HTW Programmien.exe
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\bin\Debug\net9.0\HTW Programmien.deps.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\bin\Debug\net9.0\HTW Programmien.runtimeconfig.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\bin\Debug\net9.0\HTW Programmien.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\bin\Debug\net9.0\HTW Programmien.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\obj\Debug\net9.0\HTW Programmien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\obj\Debug\net9.0\HTW Programmien.AssemblyInfoInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\obj\Debug\net9.0\HTW Programmien.AssemblyInfo.cs
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\obj\Debug\net9.0\HTW Programmien.csproj.CoreCompileInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\obj\Debug\net9.0\HTW Programmien.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\obj\Debug\net9.0\refint\HTW Programmien.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\obj\Debug\net9.0\HTW Programmien.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\obj\Debug\net9.0\HTW Programmien.genruntimeconfig.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\HTW Programmien\obj\Debug\net9.0\ref\HTW Programmien.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\bin\Debug\net9.0\HTW Programmien.exe
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\bin\Debug\net9.0\HTW Programmien.deps.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\bin\Debug\net9.0\HTW Programmien.runtimeconfig.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\bin\Debug\net9.0\HTW Programmien.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\bin\Debug\net9.0\HTW Programmien.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\obj\Debug\net9.0\HTW Programmien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\obj\Debug\net9.0\HTW Programmien.AssemblyInfoInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\obj\Debug\net9.0\HTW Programmien.AssemblyInfo.cs
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\obj\Debug\net9.0\HTW Programmien.csproj.CoreCompileInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\obj\Debug\net9.0\HTW Programmien.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\obj\Debug\net9.0\refint\HTW Programmien.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\obj\Debug\net9.0\HTW Programmien.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\obj\Debug\net9.0\HTW Programmien.genruntimeconfig.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_1\obj\Debug\net9.0\ref\HTW Programmien.dll

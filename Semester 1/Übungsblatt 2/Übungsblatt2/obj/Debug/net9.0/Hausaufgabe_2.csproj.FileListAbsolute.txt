@@ -1,0 +1,28 @@
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\bin\Debug\net9.0\Hausaufgabe_2.exe
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\bin\Debug\net9.0\Hausaufgabe_2.deps.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\bin\Debug\net9.0\Hausaufgabe_2.runtimeconfig.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\bin\Debug\net9.0\Hausaufgabe_2.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\bin\Debug\net9.0\Hausaufgabe_2.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\obj\Debug\net9.0\Hausaufgabe_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\obj\Debug\net9.0\Hausaufgabe_2.AssemblyInfoInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\obj\Debug\net9.0\Hausaufgabe_2.AssemblyInfo.cs
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\obj\Debug\net9.0\Hausaufgabe_2.csproj.CoreCompileInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\obj\Debug\net9.0\Hausaufgabe_2.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\obj\Debug\net9.0\refint\Hausaufgabe_2.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\obj\Debug\net9.0\Hausaufgabe_2.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\obj\Debug\net9.0\Hausaufgabe_2.genruntimeconfig.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Hausaufgabe_2\Hausaufgabe_2\obj\Debug\net9.0\ref\Hausaufgabe_2.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\bin\Debug\net9.0\Hausaufgabe_2.exe
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\bin\Debug\net9.0\Hausaufgabe_2.deps.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\bin\Debug\net9.0\Hausaufgabe_2.runtimeconfig.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\bin\Debug\net9.0\Hausaufgabe_2.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\bin\Debug\net9.0\Hausaufgabe_2.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\obj\Debug\net9.0\Hausaufgabe_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\obj\Debug\net9.0\Hausaufgabe_2.AssemblyInfoInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\obj\Debug\net9.0\Hausaufgabe_2.AssemblyInfo.cs
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\obj\Debug\net9.0\Hausaufgabe_2.csproj.CoreCompileInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\obj\Debug\net9.0\Hausaufgabe_2.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\obj\Debug\net9.0\refint\Hausaufgabe_2.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\obj\Debug\net9.0\Hausaufgabe_2.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\obj\Debug\net9.0\Hausaufgabe_2.genruntimeconfig.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Übungsblatt 2\Übungsblatt2\obj\Debug\net9.0\ref\Hausaufgabe_2.dll
