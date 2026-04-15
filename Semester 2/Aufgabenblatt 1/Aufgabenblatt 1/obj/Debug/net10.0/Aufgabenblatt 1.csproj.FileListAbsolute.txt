@@ -1,0 +1,15 @@
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\Aufgabenblatt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\Aufgabenblatt 1.AssemblyInfoInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\Aufgabenblatt 1.AssemblyInfo.cs
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\Aufgabenblatt 1.csproj.CoreCompileInputs.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\Aufgabenblatt 1.sourcelink.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\bin\Debug\net10.0\Aufgabenblatt 1.exe
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\bin\Debug\net10.0\Aufgabenblatt 1.deps.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\bin\Debug\net10.0\Aufgabenblatt 1.runtimeconfig.json
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\bin\Debug\net10.0\Aufgabenblatt 1.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\bin\Debug\net10.0\Aufgabenblatt 1.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\Aufgabenblatt 1.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\refint\Aufgabenblatt 1.dll
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\Aufgabenblatt 1.pdb
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\Aufgabenblatt 1.genruntimeconfig.cache
+C:\Users\tmaxi\Desktop\HTW\Umweltinformatik\Programmierung\Programmin_tasks_git_rep\Semester 2\Aufgabenblatt 1\Aufgabenblatt 1\obj\Debug\net10.0\ref\Aufgabenblatt 1.dll

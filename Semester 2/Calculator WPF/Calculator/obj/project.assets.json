@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Programmin_tasks_git_rep\\Semester 2\\Calculator WPF\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Calculator\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Programmin_tasks_git_rep\\Semester 2\\Calculator WPF\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\tmaxi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Semester 2\\Calculator\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\tmaxi\\Desktop\\HTW\\Umweltinformatik\\Programmierung\\Programmin_tasks_git_rep\\Semester 2\\Calculator WPF\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
