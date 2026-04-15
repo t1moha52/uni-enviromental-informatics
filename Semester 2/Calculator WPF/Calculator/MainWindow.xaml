@@ -5,10 +5,187 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Calculator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Button x:Name="btn_HelloWorld"  Content="Button" HorizontalAlignment="Left" Margin="35,35,0,0" VerticalAlignment="Top" Height="154" Width="185" Click="btn_HelloWorld_Click"/>
-        <RadioButton x:Name="rbtn_FirstOption" Content="1" HorizontalAlignment="Left" Margin="460,154,0,0" VerticalAlignment="Top" Checked="rbtn_FirstOption_Checked"/>
-        <TextBox x:Name="TextBox1" HorizontalAlignment="Center" Margin="0,217,0,0" TextWrapping="Wrap" Text="nope" VerticalAlignment="Top" Width="376" Height="67" TextChanged="TextBox1_TextChanged"/>
+        Title="MainWindow" Height="600" Width="400" MinHeight="375" MinWidth="300">
+
+    <Window.Resources>
+        <Style x:Key="CalcNumbersStyle" TargetType="Button">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Orange"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border
+                        x:Name="border"
+                        Background="{TemplateBinding Background}"
+                        BorderBrush="Orange"
+                        BorderThickness="1"
+                        CornerRadius="15"
+                        Margin="5">
+
+                            <ContentPresenter
+                            HorizontalAlignment="Center"
+                            VerticalAlignment="Center"/>
+                        </Border>
+
+                        <!-- ЭФФЕКТЫ -->
+                        <ControlTemplate.Triggers>
+
+                            <!-- HOVER (светло-оранжевый) -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#80FFD9A0"/>
+                            </Trigger>
+
+                            <!-- PRESSED (чуть темнее) -->
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#60FFB347"/>
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="CalcRightColStyle" TargetType="Button">
+            <Setter Property="Background" Value="#f7c79c"/>
+            <Setter Property="BorderBrush" Value="Orange"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border
+                x:Name="border"
+                Background="{TemplateBinding Background}"
+                BorderBrush="Orange"
+                BorderThickness="1"
+                CornerRadius="15"
+                Margin="5">
+
+                            <ContentPresenter
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"/>
+                        </Border>
+
+                        <!-- ЭФФЕКТЫ -->
+                        <ControlTemplate.Triggers>
+
+                            <!-- HOVER (светло-оранжевый) -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#f7b881"/>
+                            </Trigger>
+
+                            <!-- PRESSED (чуть темнее) -->
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#f7af6f"/>
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="CalcTopRowStyle" TargetType="Button">
+            <Setter Property="Background" Value="#FFE4E4E4"/>
+            <Setter Property="BorderBrush" Value="Orange"/>
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border
+        x:Name="border"
+        Background="{TemplateBinding Background}"
+        BorderBrush="Orange"
+        BorderThickness="1"
+        CornerRadius="15"
+        Margin="5">
+
+                            <ContentPresenter
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"/>
+                        </Border>
+
+                        <!-- ЭФФЕКТЫ -->
+                        <ControlTemplate.Triggers>
+
+                            <!-- HOVER (светло-оранжевый) -->
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#cccccc"/>
+                            </Trigger>
+
+                            <!-- PRESSED (чуть темнее) -->
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter TargetName="border" Property="Background" Value="#bababa"/>
+                            </Trigger>
+
+                        </ControlTemplate.Triggers>
+
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" HorizontalAlignment="Right" VerticalAlignment="Bottom" FontSize="45" Text="0" BorderBrush="White" IsReadOnly="True" Margin="5" Foreground="Black"/>
+
+        <Button x:Name="btn_AC" Grid.Row="1" Grid.Column="0" Content="AC" Style="{StaticResource CalcTopRowStyle}"/>
+
+        <Button x:Name="btn_Vorzeichen" Grid.Row="1" Grid.Column="1" Content="+/-" Style="{StaticResource CalcTopRowStyle}"/>
+
+
+        <Button x:Name="btn_Prozent" Grid.Row="1" Grid.Column="2" Content="%" Style="{StaticResource CalcTopRowStyle}"/>
+
+
+        <Button x:Name="btn_Slash" Grid.Row="1" Grid.Column="3" Content="/" Style="{StaticResource CalcRightColStyle}"/>
+
+        <Button x:Name="btn_7" Grid.Row="2" Grid.Column="0" Content="7" Style="{StaticResource CalcNumbersStyle}"/>
+
+        <Button x:Name="btn_8" Grid.Row="2" Grid.Column="1" Content="8" Style="{StaticResource CalcNumbersStyle}"/>
+
+        <Button x:Name="btn_9" Grid.Row="2" Grid.Column="2" Content="9" Style="{StaticResource CalcNumbersStyle}"/>
+
+        <Button x:Name="btn_mult" Grid.Row="2" Grid.Column="3" Content="*" Style="{StaticResource CalcRightColStyle}"/>
+
+        <Button x:Name="btn_4" Grid.Row="3" Grid.Column="0" Content="4" Style="{StaticResource CalcNumbersStyle}"/>
+
+        <Button x:Name="btn_5" Grid.Row="3" Grid.Column="1" Content="5" Style="{StaticResource CalcNumbersStyle}"/>
+
+        <Button x:Name="btn_6" Grid.Row="3" Grid.Column="2" Content="6" Style="{StaticResource CalcNumbersStyle}"/>
+
+        <Button x:Name="btn_min" Grid.Row="3" Grid.Column="3" Content="-" Style="{StaticResource CalcRightColStyle}"/>
+
+        <Button x:Name="btn_plus" Grid.Row="4" Grid.Column="3" Content="+" Style="{StaticResource CalcRightColStyle}"/>
+
+        <Button x:Name="btn_eqv" Grid.Row="5" Grid.Column="3" Content="=" Style="{StaticResource CalcRightColStyle}"/>
+
+        <Button x:Name="btn_1" Grid.Row="4" Grid.Column="0" Content="1" Style="{StaticResource CalcNumbersStyle}"/>
+        
+        <Button x:Name="btn_2" Grid.Row="4" Grid.Column="1" Content="2" Style="{StaticResource CalcNumbersStyle}"/>
+
+        <Button x:Name="btn_3" Grid.Row="4" Grid.Column="2" Content="3" Style="{StaticResource CalcNumbersStyle}"/>
+
+        <Button x:Name="btn_0" Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Content="0" Style="{StaticResource CalcNumbersStyle}"/>
+        
+        <Button x:Name="btn_dot" Grid.Row="5" Grid.Column="2" Content="." Style="{StaticResource CalcNumbersStyle}"/>
+
     </Grid>
 </Window>
